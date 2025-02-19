@@ -2,8 +2,9 @@
   "name": "task",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "fileWatcher.js",
   "scripts": {
+    "start": "node ./fileWatcher.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
